@@ -1,0 +1,14 @@
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\bin\Debug\net8.0\docker_experiment.exe
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\bin\Debug\net8.0\docker_experiment.deps.json
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\bin\Debug\net8.0\docker_experiment.runtimeconfig.json
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\bin\Debug\net8.0\docker_experiment.dll
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\bin\Debug\net8.0\docker_experiment.pdb
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\obj\Debug\net8.0\docker_experiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\obj\Debug\net8.0\docker_experiment.AssemblyInfoInputs.cache
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\obj\Debug\net8.0\docker_experiment.AssemblyInfo.cs
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\obj\Debug\net8.0\docker_experiment.csproj.CoreCompileInputs.cache
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\obj\Debug\net8.0\docker_experiment.dll
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\obj\Debug\net8.0\refint\docker_experiment.dll
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\obj\Debug\net8.0\docker_experiment.pdb
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\obj\Debug\net8.0\docker_experiment.genruntimeconfig.cache
+C:\Users\wston\Desktop\Purdue\Robotic_Motion\docker_experiment\obj\Debug\net8.0\ref\docker_experiment.dll

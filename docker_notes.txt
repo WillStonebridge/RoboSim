@@ -1,0 +1,6 @@
+build a container: 
+    docker build -t <tag> .
+run a container with a volume: 
+    docker run -it -v <local files>:<docker location>:<permissions> <command to run in container>
+access with a shell:
+    docker run -it <tag> <desired shell>
